@@ -23,6 +23,6 @@ def mahanagar_sucks():
 
 
 now = datetime.now()
-while True and now.hour < 22:
+while True:
     mahanagar_sucks()
     time.sleep(300)
