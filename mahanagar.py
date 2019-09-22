@@ -24,5 +24,7 @@ def mahanagar_sucks():
 
 now = datetime.now()
 while True:
+    # Warning !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     mahanagar_sucks()
     time.sleep(300)
+    # Sleep for every 300 seconds
