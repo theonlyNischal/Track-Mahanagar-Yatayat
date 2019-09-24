@@ -5,7 +5,7 @@ import json
 import time
 import csv
 
-def mahanagar_sucks():
+def mahanagar():
 
     url = "http://117.121.237.226:8082/api/positions/"
     auth = ("mahanagar", "mahanagar")
@@ -25,6 +25,6 @@ def mahanagar_sucks():
 now = datetime.now()
 while True:
     # Warning !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    mahanagar_sucks()
+    mahanagar()
     time.sleep(300)
     # Sleep for every 300 seconds
