@@ -19,3 +19,6 @@ Using this dataset we may find answers to:
 
 ..{to be continue}
 
+## Tasks
+ - Script/Code to clean the data(More details to follow)
+ -
